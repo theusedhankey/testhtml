@@ -10,7 +10,7 @@ def wizard_menu():
           + "\ndrop - Drop an item"
           + "\nexit - Exit program")
 
-
+#taco
 def read_items():
     total_items = []
     with open(GETITEMS) as file:
