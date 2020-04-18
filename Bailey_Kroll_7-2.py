@@ -19,6 +19,7 @@ def read_items():
             total_items.append(line)
         return total_items
 
+#test2
 
 def write_item(inventory,current_inventory):
     current_items = []
